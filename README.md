@@ -2,5 +2,5 @@
 Assignment repository for UNT CSCE1015
 ## EUID
 ss4575
-## Favorite Linux Command
-ls
+## Favorite Professor
+Stuart Brown
